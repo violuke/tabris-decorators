@@ -23,7 +23,7 @@
     "start:windows": ".\\launch.cmd"
   },
   "peerDependencies": {
-    "tabris": "^3.8.0"
+    "tabris": "*"
   },
   "devDependencies": {
     "@types/chai": "^4.2.0",
